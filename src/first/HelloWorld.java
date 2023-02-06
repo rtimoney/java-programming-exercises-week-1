@@ -46,4 +46,4 @@ System.out.println("Third Witch   \t\t That will be ere the set of sun.");
 
 	} // end of main method
 
-} end of class
+} // end of class
