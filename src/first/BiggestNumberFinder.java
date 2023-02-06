@@ -17,8 +17,8 @@ public class BiggestNumberFinder {
 		
 	// declare vars
 		int number1, number2;
-		number1 = 30000;
-		number2 = 30000;
+		number1 = 3000;
+		number2 = 3000;
 		
 		if (number1>number2) {
 			System.out.println("The greatest number is : "+number1);}
