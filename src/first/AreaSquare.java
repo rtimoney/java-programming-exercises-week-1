@@ -26,23 +26,6 @@ public class AreaSquare {
 		// output resuly
 		System.out.println("The area is: \n"+area+" cm2");
 				
-				
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
-		
-		
-		
-		
-	
-	
-	}
+	} // end of main method
 
-}
+} // end of class
