@@ -17,11 +17,12 @@ public class AreaCircle {
 		// TODO Auto-generated method stub
 
 		
-		// declare the var
+		// declare the variables 
 		double radius, circumference, area;
 		
 		radius = 9.0;
 		
+		// calculate the area of a given radius
 		area = 3.142*(radius*radius); 
 		
 		// with printf the concantination operator is a comma rather than a full stop
@@ -30,30 +31,9 @@ public class AreaCircle {
 		
 		// the added .2 means to two decimal places 
 		System.out.printf("Area is: %.2f",area);
+			
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	}
+	} // end of main method 
 
 
-}
+} // end of class
