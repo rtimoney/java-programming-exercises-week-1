@@ -14,7 +14,9 @@ public class NumbersExample {
 	 */
 	public static void main(String[] args) {
 
-		int number1, number2, answer;   // declare the variables 
+		
+		// declare the required variables
+		int number1, number2, answer;  
 		
 		int result = 0 ;
 				System.out.println(result);
@@ -42,6 +44,7 @@ public class NumbersExample {
 		answer = number1 + number2; 
 		
 System.out.println("The answer is " +answer);
-	}
+		
+	} // end of main method 
 
-}
+} // end of class
