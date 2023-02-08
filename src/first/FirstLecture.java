@@ -21,21 +21,19 @@ public class FirstLecture {
 		// TODO Auto-generated method stub
 		
 		/*
-		multi line comment 
-		second line 
+			multi line comment
+			aka block comment
+		*/
 		
-		aka block comment 
-		  */
-		
-		// First line of output. Are you alive? 
+		// First line of output. Are you alive? Will print to console
 		
 		System.out.println("Hello, World");
 		
 		// declare var of type byte 
 		byte myByte;
 		
-		
-		myByte=-127;  // assign a value to the variable
+		// assign a value to the variable
+		myByte=-127;  
 		
 		System.out.println("My Byte is "+myByte);
 	
@@ -45,9 +43,9 @@ myByte=126;  // assign a value to the variable
 		
 		
 
-	}
+	} // end of main method
 
-}
+} // end of class
 
 
 
