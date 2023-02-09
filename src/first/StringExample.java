@@ -19,7 +19,7 @@ public class StringExample {
 		int age;  // declare the integer 
 		
 		
-		myString = "RÛn·n";  // assign a value to the strings
+		myString = "R√≥n√°n";  // assign a value to the strings
 		myString2 = "Timoney";   
 	
 	
@@ -28,6 +28,6 @@ public class StringExample {
 		
 		System.out.println("My forename is " +myString);
 	System.out.println("My full name is " +myString+ " " +myString2+ " and my age is " +age+ ".");
-	}
+	} // end of main method 
 
-}
+} // end of class
