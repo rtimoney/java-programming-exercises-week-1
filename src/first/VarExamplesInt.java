@@ -19,6 +19,5 @@ myInt = 2021;
 System.out.println("MyInt value is " +myInt);
 myInt = 2022;
 System.out.printf("MyInt value is %d" ,myInt); 
-	}
-
-}
+	} // end of main method
+} // end of class
