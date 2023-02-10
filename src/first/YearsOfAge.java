@@ -1,14 +1,8 @@
-/**
- * 
- */
 package first;
-
 /**
  * @author Ronan J Timoney
- *
  */
 public class YearsOfAge {
-
 	/**
 	 * @param args
 	 */
@@ -34,32 +28,6 @@ public class YearsOfAge {
 	
 		// need to put the yearOfBirth and the +100 nside brackets, otherswise we will get 1993100
 		System.out.println("Turn 100     : "+(yearOfBirth+100));
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	}
+	} // end of main method
 
-}
+} // end of YearsOfAge class
