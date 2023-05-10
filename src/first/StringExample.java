@@ -30,4 +30,4 @@ public class StringExample {
 	System.out.println("My full name is " +myString+ " " +myString2+ " and my age is " +age+ ".");
 	} // end of main method 
 
-} // end of class
+} // end of class 
