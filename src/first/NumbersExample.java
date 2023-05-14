@@ -36,7 +36,7 @@ public class NumbersExample {
 				result =result % 2;
 				System.out.println(result);
 				
-		// assignmet
+		// assignmet 
 		number1 = 5;
 		number2 = 10;
 		
