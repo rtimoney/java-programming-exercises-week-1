@@ -47,4 +47,4 @@ System.out.println("The answer is " +answer);
 		
 	} // end of main method 
 
-} // end of class
+} // end of class 
