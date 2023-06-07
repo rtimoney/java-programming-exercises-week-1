@@ -15,7 +15,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		// display the Hello world message 
+		// display the Hello world message to the console 
 System.out.println("Hello World! I am alive.\n");
 System.out.println("I can write on two lines!");
 
@@ -24,18 +24,18 @@ System.out.println("\n");
 System.out.println("\n");
 
 
-// display a Happy Christmas Message 
+// display a Happy Christmas Message and demostrate levels of spacing
 System.out.println("\t       Happy Christmas");
 System.out.println("\t \t     *");
 System.out.println("\t \t    ***");
 System.out.println("\t \t   *****");
 System.out.println("\t \t  *******");
 
-// skip a few lines
+// skip another number of lines
 System.out.println("\n");
 System.out.println("\n");
 
-// Macbeth Excerpt to demonstrate spacing in the console
+// Macbeth Excerpt to further demonstrate spacing in the console
 System.out.println("First Witch   \t\t When shall we three meet again?");
 System.out.println("              \t\t In thunder, lightening or in rain?\n");
 
