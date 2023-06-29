@@ -1,6 +1,6 @@
 package first;
 /**
- * @author Ronan J Timoney
+ * @author Ronan J Timoney 
  */
 public class YearsOfAge {
 	/**
